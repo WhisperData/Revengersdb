@@ -16,5 +16,11 @@
     "password": "00",
     "role": "owner",
     "expiredDate": "2027-06-29"
+  },
+  {
+    "username": "zarr",
+    "password": "1",
+    "role": "owner",
+    "expiredDate": "2027-06-29"
   }
 ]
