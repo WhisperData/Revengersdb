@@ -34,5 +34,11 @@
     "password": "1",
     "role": "moderator",
     "expiredDate": "2053-11-13"
+  },
+  {
+    "username": "Nichol",
+    "password": "76",
+    "role": "vip",
+    "expiredDate": "2027-06-29"
   }
 ]
