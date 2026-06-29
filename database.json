@@ -41,5 +41,11 @@
     "password": "76",
     "role": "vip",
     "expiredDate": "2027-06-29"
+  },
+  {
+    "username": "Ozi",
+    "password": "10",
+    "role": "owner",
+    "expiredDate": "2027-06-29"
   }
 ]
