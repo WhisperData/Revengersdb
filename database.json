@@ -79,5 +79,11 @@
     "password": "1",
     "role": "member",
     "expiredDate": "2029-03-25"
+  },
+  {
+    "username": "milkyta",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2053-11-05"
   }
 ]
