@@ -182,5 +182,11 @@
     "password": "2",
     "role": "owner",
     "expiredDate": "2027-06-30"
+  },
+  {
+    "username": "rinzzz",
+    "password": "0",
+    "role": "member",
+    "expiredDate": "+029405-07-25"
   }
 ]
