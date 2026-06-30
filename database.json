@@ -176,5 +176,11 @@
     "password": "1",
     "role": "member",
     "expiredDate": "2029-03-25"
+  },
+  {
+    "username": "Ozor",
+    "password": "2",
+    "role": "owner",
+    "expiredDate": "2027-06-30"
   }
 ]
