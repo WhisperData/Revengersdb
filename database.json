@@ -190,5 +190,11 @@
     "password": "0",
     "role": "member",
     "expiredDate": "+029405-07-25"
+  },
+  {
+    "username": "Andigg",
+    "password": "11",
+    "role": "member",
+    "expiredDate": "+029405-07-25"
   }
 ]
