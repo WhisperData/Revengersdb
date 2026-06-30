@@ -60,5 +60,11 @@
     "password": "1",
     "role": "owner",
     "expiredDate": "2027-06-30"
+  },
+  {
+    "username": "mail",
+    "password": "121",
+    "role": "member",
+    "expiredDate": "2027-06-30"
   }
 ]
