@@ -170,5 +170,11 @@
     "password": "123",
     "role": "member",
     "expiredDate": "2027-06-30"
+  },
+  {
+    "username": "Dhar store",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2029-03-25"
   }
 ]
