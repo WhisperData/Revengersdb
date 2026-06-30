@@ -54,5 +54,11 @@
     "password": "1",
     "role": "reseller",
     "expiredDate": "2027-06-29"
+  },
+  {
+    "username": "Ruskie",
+    "password": "1",
+    "role": "owner",
+    "expiredDate": "2027-06-30"
   }
 ]
