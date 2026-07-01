@@ -210,5 +210,11 @@
     "role": "member",
     "expiredDate": "2027-07-01",
     "lastSend": 1782877520890
+  },
+  {
+    "username": "Dyy",
+    "password": "1",
+    "role": "vip",
+    "expiredDate": "4764-05-27"
   }
 ]
