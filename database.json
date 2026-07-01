@@ -218,5 +218,11 @@
     "password": "1",
     "role": "vip",
     "expiredDate": "4764-05-27"
+  },
+  {
+    "username": "banz",
+    "password": "10",
+    "role": "owner",
+    "expiredDate": "2027-07-01"
   }
 ]
