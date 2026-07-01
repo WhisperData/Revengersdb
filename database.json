@@ -237,11 +237,5 @@
     "password": "1",
     "role": "member",
     "expiredDate": "2029-03-26"
-  },
-  {
-    "username": "wili",
-    "password": "1",
-    "role": "member",
-    "expiredDate": "2029-03-26"
   }
 ]
