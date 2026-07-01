@@ -203,5 +203,11 @@
     "password": "2",
     "role": "member",
     "expiredDate": "2027-07-01"
+  },
+  {
+    "username": "shibalzzz",
+    "password": "10",
+    "role": "member",
+    "expiredDate": "2027-07-01"
   }
 ]
