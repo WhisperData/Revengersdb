@@ -224,5 +224,11 @@
     "password": "10",
     "role": "owner",
     "expiredDate": "2027-07-01"
+  },
+  {
+    "username": "Zaki",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2026-07-02"
   }
 ]
