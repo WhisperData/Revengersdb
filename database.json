@@ -278,5 +278,11 @@
     "password": "1",
     "role": "moderator",
     "expiredDate": "2029-03-27"
+  },
+  {
+    "username": "AryaItem",
+    "password": "2",
+    "role": "owner",
+    "expiredDate": "2027-07-02"
   }
 ]
