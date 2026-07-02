@@ -284,5 +284,11 @@
     "password": "2",
     "role": "owner",
     "expiredDate": "2027-07-02"
+  },
+  {
+    "username": "safiq",
+    "password": "1",
+    "expiredDate": "2026-08-01",
+    "role": "member"
   }
 ]
