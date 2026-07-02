@@ -265,5 +265,11 @@
     "password": "1",
     "role": "member",
     "expiredDate": "2029-03-27"
+  },
+  {
+    "username": "kysuka",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2029-03-27"
   }
 ]
