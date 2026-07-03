@@ -312,5 +312,11 @@
     "password": "123",
     "role": "member",
     "expiredDate": "2029-03-27"
+  },
+  {
+    "username": "Kyurzu",
+    "password": "20",
+    "role": "owner",
+    "expiredDate": "2027-07-03"
   }
 ]
