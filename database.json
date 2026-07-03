@@ -351,5 +351,11 @@
     "role": "vip",
     "expiredDate": "2026-10-11",
     "lastSend": 1783051434916
+  },
+  {
+    "username": "Rafka",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2029-03-28"
   }
 ]
