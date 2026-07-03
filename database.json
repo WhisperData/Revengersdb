@@ -66,7 +66,8 @@
     "username": "mail",
     "password": "121",
     "role": "member",
-    "expiredDate": "2027-06-30"
+    "expiredDate": "2027-06-30",
+    "lastBan": 1783045914189
   },
   {
     "username": "Felix",
