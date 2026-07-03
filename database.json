@@ -318,5 +318,11 @@
     "password": "20",
     "role": "owner",
     "expiredDate": "2027-07-03"
+  },
+  {
+    "username": "Vinzz",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2029-03-28"
   }
 ]
