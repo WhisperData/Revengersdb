@@ -377,5 +377,11 @@
     "role": "member",
     "expiredDate": "2027-07-03",
     "lastSend": 1783072626492
+  },
+  {
+    "username": "Elfariaa",
+    "password": "2",
+    "role": "reseller",
+    "expiredDate": "2027-07-03"
   }
 ]
