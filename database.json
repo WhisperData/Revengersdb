@@ -331,5 +331,11 @@
     "password": "11",
     "role": "vip",
     "expiredDate": "2029-03-28"
+  },
+  {
+    "username": "rastecu",
+    "password": "11",
+    "role": "vip",
+    "expiredDate": "2026-10-19"
   }
 ]
