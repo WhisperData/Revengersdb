@@ -337,5 +337,11 @@
     "password": "11",
     "role": "vip",
     "expiredDate": "2026-10-19"
+  },
+  {
+    "username": "nubizs",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2029-03-28"
   }
 ]
