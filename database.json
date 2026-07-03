@@ -370,5 +370,11 @@
     "password": "1336483802837382629749282737",
     "role": "owner",
     "expiredDate": "2027-07-03"
+  },
+  {
+    "username": "Yanz",
+    "password": "yanzxrav122",
+    "role": "member",
+    "expiredDate": "2027-07-03"
   }
 ]
