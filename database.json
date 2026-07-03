@@ -358,5 +358,11 @@
     "role": "member",
     "expiredDate": "2029-03-28",
     "lastSend": 1783068034550
+  },
+  {
+    "username": "Tempek",
+    "password": "10",
+    "role": "owner",
+    "expiredDate": "2027-07-03"
   }
 ]
