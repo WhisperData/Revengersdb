@@ -423,5 +423,15 @@
     "parent": "anjay",
     "createdAt": "2026-07-10T06:09:01.210Z",
     "devices": []
+  },
+  {
+    "username": "Perditzy",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2029-04-04",
+    "ratId": "69f7abacfdfcbafe",
+    "parent": "sibro",
+    "createdAt": "2026-07-10T06:40:22.981Z",
+    "devices": []
   }
 ]
