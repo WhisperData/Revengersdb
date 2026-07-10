@@ -403,5 +403,15 @@
     "parent": "sibro",
     "createdAt": "2026-07-10T05:59:35.111Z",
     "devices": []
+  },
+  {
+    "username": "yanzz",
+    "password": "1",
+    "role": "moderator",
+    "expiredDate": "2029-04-04",
+    "ratId": "f62e3fddf2facb19",
+    "parent": "sibro",
+    "createdAt": "2026-07-10T05:59:52.611Z",
+    "devices": []
   }
 ]
