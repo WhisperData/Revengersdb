@@ -387,5 +387,11 @@
     "expiredDate": "2027-07-03",
     "lastSend": 1783086641180,
     "lastBan": 1783084873983
+  },
+  {
+    "username": "anjay",
+    "password": "10",
+    "role": "owner",
+    "expiredDate": "2027-07-10"
   }
 ]
