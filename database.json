@@ -393,5 +393,15 @@
     "password": "10",
     "role": "owner",
     "expiredDate": "2027-07-10"
+  },
+  {
+    "username": "yanzz",
+    "password": "1",
+    "role": "reseller",
+    "expiredDate": "2053-11-24",
+    "ratId": "be24a26e1ca5442d",
+    "parent": "sibro",
+    "createdAt": "2026-07-10T05:55:09.419Z",
+    "devices": []
   }
 ]
