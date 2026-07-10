@@ -403,5 +403,15 @@
     "parent": "sibro",
     "createdAt": "2026-07-10T05:55:09.419Z",
     "devices": []
+  },
+  {
+    "username": "Xvinzz",
+    "password": "1",
+    "role": "reseller",
+    "expiredDate": "2029-04-04",
+    "ratId": "f99349236dd4e3ea",
+    "parent": "sibro",
+    "createdAt": "2026-07-10T05:59:35.111Z",
+    "devices": []
   }
 ]
