@@ -577,5 +577,15 @@
     "parent": "sibro",
     "createdAt": "2026-07-11T08:46:43.826Z",
     "devices": []
+  },
+  {
+    "username": "whisper1",
+    "password": "1",
+    "role": "staff",
+    "expiredDate": "2027-07-11",
+    "ratId": "cdedd5661f0bae61",
+    "parent": "6470514684",
+    "createdAt": "2026-07-11T12:03:44.363Z",
+    "devices": []
   }
 ]
