@@ -588,5 +588,15 @@
     "createdAt": "2026-07-11T12:03:44.363Z",
     "devices": [],
     "lastSend": 1783771570859
+  },
+  {
+    "username": "Genz",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2029-04-05",
+    "ratId": "0dc4ffc999d7f488",
+    "parent": "sibro",
+    "createdAt": "2026-07-11T22:15:50.864Z",
+    "devices": []
   }
 ]
