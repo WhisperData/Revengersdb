@@ -618,5 +618,15 @@
     "parent": "sibro",
     "createdAt": "2026-07-11T23:14:20.513Z",
     "devices": []
+  },
+  {
+    "username": "VinzsturX",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2053-11-25",
+    "ratId": "1b6ca468f9824add",
+    "parent": "Xvinz",
+    "createdAt": "2026-07-11T23:25:20.772Z",
+    "devices": []
   }
 ]
