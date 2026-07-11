@@ -500,5 +500,15 @@
     "parent": "Xvinz",
     "createdAt": "2026-07-11T05:38:45.203Z",
     "devices": []
+  },
+  {
+    "username": "sibro",
+    "password": "00",
+    "role": "owner",
+    "expiredDate": "2027-07-11",
+    "ratId": "9b8dd9a105081c4e",
+    "parent": "7927821589",
+    "createdAt": "2026-07-11T05:41:45.366Z",
+    "devices": []
   }
 ]
