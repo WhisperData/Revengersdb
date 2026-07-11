@@ -446,5 +446,15 @@
     "parent": "6470514684",
     "createdAt": "2026-07-11T03:12:53.482Z",
     "devices": []
+  },
+  {
+    "username": "Vanz",
+    "password": "2",
+    "role": "reseller",
+    "expiredDate": "2027-07-11",
+    "ratId": "e58c98d39639520c",
+    "parent": "6470514684",
+    "createdAt": "2026-07-11T03:14:14.849Z",
+    "devices": []
   }
 ]
