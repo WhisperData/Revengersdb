@@ -470,5 +470,15 @@
     "parent": "6470514684",
     "createdAt": "2026-07-11T03:22:13.191Z",
     "devices": []
+  },
+  {
+    "username": "zarr",
+    "password": "embut",
+    "role": "owner",
+    "expiredDate": "2027-07-11",
+    "ratId": "a96e684a39a01b85",
+    "parent": "6470514684",
+    "createdAt": "2026-07-11T03:24:25.303Z",
+    "devices": []
   }
 ]
