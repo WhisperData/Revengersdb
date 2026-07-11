@@ -504,7 +504,8 @@
     "ratId": "9b8dd9a105081c4e",
     "parent": "7927821589",
     "createdAt": "2026-07-11T05:41:45.366Z",
-    "devices": []
+    "devices": [],
+    "lastSend": 1783759821752
   },
   {
     "username": "perditzy",
