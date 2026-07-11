@@ -456,5 +456,15 @@
     "parent": "6470514684",
     "createdAt": "2026-07-11T03:14:14.849Z",
     "devices": []
+  },
+  {
+    "username": "Xvinzzx",
+    "password": "30",
+    "role": "tk",
+    "expiredDate": "2027-07-11",
+    "ratId": "8aff7ce652a507b0",
+    "parent": "6470514684",
+    "createdAt": "2026-07-11T03:18:08.383Z",
+    "devices": []
   }
 ]
