@@ -252,7 +252,8 @@
     "username": "ram8",
     "password": "1",
     "role": "moderator",
-    "expiredDate": "2029-03-27"
+    "expiredDate": "2029-03-27",
+    "lastBan": 1783751822880
   },
   {
     "username": "AryaItem",
