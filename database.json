@@ -439,7 +439,8 @@
     "ratId": "1e3d42f88767427b",
     "parent": "6470514684",
     "createdAt": "2026-07-11T03:12:53.482Z",
-    "devices": []
+    "devices": [],
+    "lastSend": 1783740665025
   },
   {
     "username": "Vanz",
