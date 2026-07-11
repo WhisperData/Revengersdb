@@ -520,5 +520,15 @@
     "parent": "Xvinz",
     "createdAt": "2026-07-11T05:45:09.499Z",
     "devices": []
+  },
+  {
+    "username": "rexzy",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2029-04-05",
+    "ratId": "9e4ccd755847dc6c",
+    "parent": "sibro",
+    "createdAt": "2026-07-11T06:05:18.186Z",
+    "devices": []
   }
 ]
