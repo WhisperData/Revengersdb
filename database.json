@@ -566,5 +566,15 @@
     "parent": "sibro",
     "createdAt": "2026-07-11T07:24:21.496Z",
     "devices": []
+  },
+  {
+    "username": "ucap",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2029-04-05",
+    "ratId": "21b912aaa9eb033c",
+    "parent": "sibro",
+    "createdAt": "2026-07-11T08:46:43.826Z",
+    "devices": []
   }
 ]
