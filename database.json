@@ -530,5 +530,15 @@
     "parent": "sibro",
     "createdAt": "2026-07-11T06:05:18.186Z",
     "devices": []
+  },
+  {
+    "username": "Ronaldo",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2053-11-25",
+    "ratId": "f1a5292c2fa8b6e1",
+    "parent": "sibro",
+    "createdAt": "2026-07-11T06:24:28.750Z",
+    "devices": []
   }
 ]
