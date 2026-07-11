@@ -443,5 +443,15 @@
     "parent": "anjay",
     "createdAt": "2026-07-10T10:43:45.377Z",
     "devices": []
+  },
+  {
+    "username": "fuatzxbug",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2027-07-11",
+    "ratId": "1e3d42f88767427b",
+    "parent": "6470514684",
+    "createdAt": "2026-07-11T03:12:53.482Z",
+    "devices": []
   }
 ]
