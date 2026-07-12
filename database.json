@@ -762,6 +762,7 @@
     "ratId": "067ff3f041d8cf3a",
     "parent": "7927821589",
     "createdAt": "2026-07-12T12:51:37.732Z",
-    "devices": []
+    "devices": [],
+    "lastSend": 1783871357448
   }
 ]
