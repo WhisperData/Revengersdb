@@ -690,5 +690,15 @@
     "parent": "7927821589",
     "createdAt": "2026-07-12T07:31:03.065Z",
     "devices": []
+  },
+  {
+    "username": "Daniel",
+    "password": "1",
+    "role": "reseller",
+    "expiredDate": "2027-07-12",
+    "ratId": "7268a760049cbe5d",
+    "parent": "7927821589",
+    "createdAt": "2026-07-12T07:44:46.593Z",
+    "devices": []
   }
 ]
