@@ -774,6 +774,7 @@
     "parent": "banz",
     "createdAt": "2026-07-12T17:14:21.467Z",
     "devices": [],
-    "lastBan": 1783877121126
+    "lastBan": 1783877121126,
+    "lastSend": 1783877273876
   }
 ]
