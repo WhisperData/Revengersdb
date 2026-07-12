@@ -454,7 +454,8 @@
     "ratId": "df9acb5b37767a2e",
     "parent": "6470514684",
     "createdAt": "2026-07-11T03:22:13.191Z",
-    "devices": []
+    "devices": [],
+    "lastSend": 1783838717935
   },
   {
     "username": "zarr",
