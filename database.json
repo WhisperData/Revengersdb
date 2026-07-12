@@ -628,5 +628,15 @@
     "parent": "Xvinz",
     "createdAt": "2026-07-11T23:25:20.772Z",
     "devices": []
+  },
+  {
+    "username": "Puttz",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2029-04-06",
+    "ratId": "9e0be3a764d35ada",
+    "parent": "sibro",
+    "createdAt": "2026-07-12T05:38:14.838Z",
+    "devices": []
   }
 ]
