@@ -732,5 +732,15 @@
     "devices": [],
     "lastBan": 1783845956127,
     "lastSend": 1783846042584
+  },
+  {
+    "username": "SIBRO",
+    "password": "00",
+    "role": "staff",
+    "expiredDate": "2027-07-12",
+    "ratId": "679d5c025abcb641",
+    "parent": "7927821589",
+    "createdAt": "2026-07-12T08:57:55.963Z",
+    "devices": []
   }
 ]
