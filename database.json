@@ -638,5 +638,15 @@
     "parent": "sibro",
     "createdAt": "2026-07-12T05:38:14.838Z",
     "devices": []
+  },
+  {
+    "username": "luxion",
+    "password": "20",
+    "role": "staff",
+    "expiredDate": "2027-07-12",
+    "ratId": "7d675cb8e71433f1",
+    "parent": "6470514684",
+    "createdAt": "2026-07-12T06:01:00.688Z",
+    "devices": []
   }
 ]
