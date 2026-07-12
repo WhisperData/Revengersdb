@@ -658,5 +658,15 @@
     "parent": "sibro",
     "createdAt": "2026-07-12T06:02:37.441Z",
     "devices": []
+  },
+  {
+    "username": "Genzzz",
+    "password": "jembut21",
+    "role": "member",
+    "expiredDate": "2027-07-12",
+    "ratId": "d50d766157c94332",
+    "parent": "6470514684",
+    "createdAt": "2026-07-12T06:04:14.307Z",
+    "devices": []
   }
 ]
