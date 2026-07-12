@@ -776,5 +776,15 @@
     "devices": [],
     "lastBan": 1783879077992,
     "lastSend": 1783879482221
+  },
+  {
+    "username": "Banz",
+    "password": "30",
+    "role": "owner",
+    "expiredDate": "2027-07-12",
+    "ratId": "550e741341170bce",
+    "parent": "6470514684",
+    "createdAt": "2026-07-12T22:30:37.814Z",
+    "devices": []
   }
 ]
