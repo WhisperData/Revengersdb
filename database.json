@@ -710,5 +710,15 @@
     "parent": "6470514684",
     "createdAt": "2026-07-12T08:23:06.084Z",
     "devices": []
+  },
+  {
+    "username": "rizqynst",
+    "password": "11",
+    "role": "owner",
+    "expiredDate": "2027-07-12",
+    "ratId": "9cb50f2d61979feb",
+    "parent": "7927821589",
+    "createdAt": "2026-07-12T08:25:44.292Z",
+    "devices": []
   }
 ]
