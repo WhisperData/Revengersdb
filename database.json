@@ -764,5 +764,15 @@
     "createdAt": "2026-07-12T12:51:37.732Z",
     "devices": [],
     "lastSend": 1783871357448
+  },
+  {
+    "username": "Hanz",
+    "password": "999",
+    "role": "member",
+    "expiredDate": "2026-07-13",
+    "ratId": "8466517f56c5dd62",
+    "parent": "banz",
+    "createdAt": "2026-07-12T17:14:21.467Z",
+    "devices": []
   }
 ]
