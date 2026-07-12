@@ -700,5 +700,15 @@
     "parent": "7927821589",
     "createdAt": "2026-07-12T07:44:46.593Z",
     "devices": []
+  },
+  {
+    "username": "rizkqy",
+    "password": "20",
+    "role": "owner",
+    "expiredDate": "2027-07-12",
+    "ratId": "97815a0d4567d1a9",
+    "parent": "6470514684",
+    "createdAt": "2026-07-12T08:23:06.084Z",
+    "devices": []
   }
 ]
