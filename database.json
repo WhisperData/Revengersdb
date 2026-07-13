@@ -786,5 +786,15 @@
     "parent": "6470514684",
     "createdAt": "2026-07-12T22:30:37.814Z",
     "devices": []
+  },
+  {
+    "username": "Danzx",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2053-11-27",
+    "ratId": "b3772d605ea9e9a1",
+    "parent": "sibro",
+    "createdAt": "2026-07-13T07:07:55.968Z",
+    "devices": []
   }
 ]
