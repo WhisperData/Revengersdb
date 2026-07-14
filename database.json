@@ -854,5 +854,15 @@
     "parent": "zarr",
     "createdAt": "2026-07-14T13:31:45.739Z",
     "devices": []
+  },
+  {
+    "username": "Cacawimup",
+    "password": "1234",
+    "role": "member",
+    "expiredDate": "2300-04-28",
+    "ratId": "f3d19483bab58509",
+    "parent": "Banz",
+    "createdAt": "2026-07-14T15:32:45.841Z",
+    "devices": []
   }
 ]
