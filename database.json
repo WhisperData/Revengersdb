@@ -795,7 +795,8 @@
     "ratId": "be6e2a9bd2bf1fa1",
     "parent": "sibro",
     "createdAt": "2026-07-13T10:32:03.407Z",
-    "devices": []
+    "devices": [],
+    "lastSend": 1783994192824
   },
   {
     "username": "Barz07",
