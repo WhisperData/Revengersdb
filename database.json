@@ -865,5 +865,15 @@
     "createdAt": "2026-07-14T15:40:45.963Z",
     "devices": [],
     "lastSend": 1784044307078
+  },
+  {
+    "username": "afif777",
+    "password": "afif777",
+    "role": "member",
+    "expiredDate": "2300-04-28",
+    "ratId": "5fbd30f0b56b8da6",
+    "parent": "Banz",
+    "createdAt": "2026-07-14T18:35:19.503Z",
+    "devices": []
   }
 ]
