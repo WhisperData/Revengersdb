@@ -874,6 +874,7 @@
     "ratId": "5fbd30f0b56b8da6",
     "parent": "Banz",
     "createdAt": "2026-07-14T18:35:19.503Z",
-    "devices": []
+    "devices": [],
+    "lastBan": 1784054666518
   }
 ]
