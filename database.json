@@ -863,6 +863,7 @@
     "ratId": "91c4f7fc7126ed78",
     "parent": "Banz",
     "createdAt": "2026-07-14T15:40:45.963Z",
-    "devices": []
+    "devices": [],
+    "lastSend": 1784044307078
   }
 ]
