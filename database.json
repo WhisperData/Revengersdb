@@ -829,5 +829,15 @@
     "parent": "Rapip",
     "createdAt": "2026-07-14T07:44:26.379Z",
     "devices": []
+  },
+  {
+    "username": "natlu",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2026-10-21",
+    "ratId": "e8ee6673e0e8c316",
+    "parent": "Rapip",
+    "createdAt": "2026-07-14T08:34:14.589Z",
+    "devices": []
   }
 ]
