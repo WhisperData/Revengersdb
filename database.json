@@ -844,5 +844,15 @@
     "devices": [],
     "lastBan": 1784022147267,
     "lastSend": 1784022370265
+  },
+  {
+    "username": "Taka?",
+    "password": "123",
+    "role": "partner",
+    "expiredDate": "2029-04-08",
+    "ratId": "cdeaeaa56e2b159c",
+    "parent": "zarr",
+    "createdAt": "2026-07-14T13:31:45.739Z",
+    "devices": []
   }
 ]
