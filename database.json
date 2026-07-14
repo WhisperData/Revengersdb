@@ -819,5 +819,15 @@
     "devices": [],
     "lastSend": 1784013589679,
     "lastBan": 1784013444384
+  },
+  {
+    "username": "zora",
+    "password": "11",
+    "role": "member",
+    "expiredDate": "2026-10-21",
+    "ratId": "ed40dad67a237829",
+    "parent": "Rapip",
+    "createdAt": "2026-07-14T07:44:26.379Z",
+    "devices": []
   }
 ]
