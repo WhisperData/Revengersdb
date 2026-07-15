@@ -879,5 +879,15 @@
     "devices": [],
     "lastBan": 1784055711266,
     "lastSend": 1784056079384
+  },
+  {
+    "username": "wkwkkw",
+    "password": "122",
+    "role": "member",
+    "expiredDate": "2026-08-18",
+    "ratId": "7e23d7df4ce18bd6",
+    "parent": "Taka?",
+    "createdAt": "2026-07-15T08:44:49.609Z",
+    "devices": []
   }
 ]
