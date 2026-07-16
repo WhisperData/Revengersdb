@@ -912,6 +912,7 @@
     "ratId": "8e07ca27d26011fd",
     "parent": "Rapip",
     "createdAt": "2026-07-16T11:16:49.147Z",
-    "devices": []
+    "devices": [],
+    "lastSend": 1784203293514
   }
 ]
