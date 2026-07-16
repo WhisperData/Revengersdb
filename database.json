@@ -893,5 +893,15 @@
     "parent": "7927821589",
     "createdAt": "2026-07-15T12:59:45.491Z",
     "devices": []
+  },
+  {
+    "username": "Ozi",
+    "password": "bokep",
+    "role": "staff",
+    "expiredDate": "2027-07-16",
+    "ratId": "c47bcaf94b300f52",
+    "parent": "6470514684",
+    "createdAt": "2026-07-16T08:14:22.182Z",
+    "devices": []
   }
 ]
