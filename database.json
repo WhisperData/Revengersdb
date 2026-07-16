@@ -903,5 +903,15 @@
     "parent": "6470514684",
     "createdAt": "2026-07-16T08:14:22.182Z",
     "devices": []
+  },
+  {
+    "username": "fan",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2026-10-23",
+    "ratId": "8e07ca27d26011fd",
+    "parent": "Rapip",
+    "createdAt": "2026-07-16T11:16:49.147Z",
+    "devices": []
   }
 ]
