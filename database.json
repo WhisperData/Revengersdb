@@ -914,5 +914,15 @@
     "createdAt": "2026-07-16T11:16:49.147Z",
     "devices": [],
     "lastSend": 1784203293514
+  },
+  {
+    "username": "Hamzzstore",
+    "password": "123",
+    "role": "tk",
+    "expiredDate": "2027-07-16",
+    "ratId": "3a25329c65520009",
+    "parent": "6470514684",
+    "createdAt": "2026-07-16T16:10:19.884Z",
+    "devices": []
   }
 ]
