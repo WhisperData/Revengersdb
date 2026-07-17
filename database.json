@@ -936,5 +936,15 @@
     "parent": "sibro",
     "createdAt": "2026-07-17T06:35:11.201Z",
     "devices": []
+  },
+  {
+    "username": "Daffa",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2029-04-11",
+    "ratId": "8b1b1a9c72f89f21",
+    "parent": "sibro",
+    "createdAt": "2026-07-17T06:36:39.723Z",
+    "devices": []
   }
 ]
