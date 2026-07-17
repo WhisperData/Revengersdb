@@ -955,6 +955,7 @@
     "ratId": "005fa14ea622c122",
     "parent": "Banz",
     "createdAt": "2026-07-17T07:45:25.394Z",
-    "devices": []
+    "devices": [],
+    "lastSend": 1784274692704
   }
 ]
