@@ -957,5 +957,15 @@
     "createdAt": "2026-07-17T07:45:25.394Z",
     "devices": [],
     "lastSend": 1784285303291
+  },
+  {
+    "username": "RAMDAN",
+    "password": "RAMDAN",
+    "role": "member",
+    "expiredDate": "2026-07-19",
+    "ratId": "2ea356b632b9e1d3",
+    "parent": "RAMA",
+    "createdAt": "2026-07-17T12:47:43.005Z",
+    "devices": []
   }
 ]
