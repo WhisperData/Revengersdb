@@ -793,7 +793,8 @@
     "parent": "sibro",
     "createdAt": "2026-07-13T10:32:03.407Z",
     "devices": [],
-    "lastSend": 1784262453852
+    "lastSend": 1784262453852,
+    "lastBan": 1784264195557
   },
   {
     "username": "Barz07",
