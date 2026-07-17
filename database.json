@@ -946,5 +946,15 @@
     "parent": "sibro",
     "createdAt": "2026-07-17T06:36:39.723Z",
     "devices": []
+  },
+  {
+    "username": "RAMA",
+    "password": "RAMDAN123",
+    "role": "partner",
+    "expiredDate": "2300-05-01",
+    "ratId": "005fa14ea622c122",
+    "parent": "Banz",
+    "createdAt": "2026-07-17T07:45:25.394Z",
+    "devices": []
   }
 ]
