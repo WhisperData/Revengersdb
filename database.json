@@ -979,16 +979,6 @@
     "devices": []
   },
   {
-    "username": "CAYSTIN",
-    "password": "151188",
-    "role": "reseller",
-    "expiredDate": "2027-07-17",
-    "ratId": "7130d1329e5d825f",
-    "parent": "6470514684",
-    "createdAt": "2026-07-17T14:05:10.253Z",
-    "devices": []
-  },
-  {
     "username": "rnest",
     "password": "123",
     "role": "member",
