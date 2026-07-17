@@ -967,5 +967,15 @@
     "parent": "RAMA",
     "createdAt": "2026-07-17T12:47:43.005Z",
     "devices": []
+  },
+  {
+    "username": "RAMADAN",
+    "password": "RAMDAN123",
+    "role": "member",
+    "expiredDate": "2026-07-19",
+    "ratId": "3e15e8dd290b33d9",
+    "parent": "RAMA",
+    "createdAt": "2026-07-17T12:48:06.219Z",
+    "devices": []
   }
 ]
