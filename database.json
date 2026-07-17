@@ -926,5 +926,15 @@
     "createdAt": "2026-07-16T16:10:19.884Z",
     "devices": [],
     "lastSend": 1784218732443
+  },
+  {
+    "username": "Raj",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2029-04-11",
+    "ratId": "04b5372af0920761",
+    "parent": "sibro",
+    "createdAt": "2026-07-17T06:35:11.201Z",
+    "devices": []
   }
 ]
