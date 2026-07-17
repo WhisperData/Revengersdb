@@ -987,5 +987,15 @@
     "parent": "6470514684",
     "createdAt": "2026-07-17T14:05:10.253Z",
     "devices": []
+  },
+  {
+    "username": "rnest",
+    "password": "123",
+    "role": "member",
+    "expiredDate": "2027-07-17",
+    "ratId": "eac323518b22fecd",
+    "parent": "6470514684",
+    "createdAt": "2026-07-17T14:48:27.969Z",
+    "devices": []
   }
 ]
