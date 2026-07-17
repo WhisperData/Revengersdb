@@ -997,5 +997,15 @@
     "parent": "6470514684",
     "createdAt": "2026-07-17T14:48:27.969Z",
     "devices": []
+  },
+  {
+    "username": "raps",
+    "password": "kacung",
+    "role": "owner",
+    "expiredDate": "2027-07-17",
+    "ratId": "f53c05ef82c24e96",
+    "parent": "5852180312",
+    "createdAt": "2026-07-17T15:15:27.181Z",
+    "devices": []
   }
 ]
