@@ -998,5 +998,15 @@
     "parent": "5852180312",
     "createdAt": "2026-07-17T15:17:17.994Z",
     "devices": []
+  },
+  {
+    "username": "dappak",
+    "password": "00",
+    "role": "reseller",
+    "expiredDate": "2027-07-18",
+    "ratId": "9fd98eff9f58f4e2",
+    "parent": "6470514684",
+    "createdAt": "2026-07-18T02:32:48.637Z",
+    "devices": []
   }
 ]
