@@ -1008,5 +1008,15 @@
     "parent": "6470514684",
     "createdAt": "2026-07-18T02:32:48.637Z",
     "devices": []
+  },
+  {
+    "username": "Pintzy",
+    "password": "23",
+    "role": "member",
+    "expiredDate": "2027-07-18",
+    "ratId": "0c58cb7fadbe195d",
+    "parent": "6470514684",
+    "createdAt": "2026-07-18T11:27:32.152Z",
+    "devices": []
   }
 ]
