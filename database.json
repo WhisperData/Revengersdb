@@ -1018,5 +1018,15 @@
     "parent": "6470514684",
     "createdAt": "2026-07-18T11:27:32.152Z",
     "devices": []
+  },
+  {
+    "username": "Kaicho",
+    "password": "3",
+    "role": "staff",
+    "expiredDate": "2027-07-19",
+    "ratId": "f5e4cee5ff91ce80",
+    "parent": "6470514684",
+    "createdAt": "2026-07-19T13:25:08.575Z",
+    "devices": []
   }
 ]
